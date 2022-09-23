@@ -73,3 +73,10 @@ To mark things complete, select "4" and you will be prompted to type the name of
 We used googletest to test the functionality of the tasks. 
 
 <img width="454" alt="Screen Shot 2022-07-22 at 3 15 40 PM" src="https://user-images.githubusercontent.com/59552176/180575585-596a2017-0719-48c3-92e4-c357cf00e696.png">
+
+
+## How To execute: 
+1) run ` cmake . `
+2) run ` make `
+3) run ` ./todolist `
+
