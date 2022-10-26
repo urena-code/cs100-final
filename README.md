@@ -2,7 +2,7 @@
 
 
  > Authors: [Luis Urena](https://github.com/urena-code)
-            [Julian Giessinger](https://github.com/)
+            [Julian Giessinger](https://github.com/20000010)
 
 
 ## Phase I
@@ -44,7 +44,6 @@ main starts off with a vector. this vector contain a list of pointers to lists. 
 
  
  > ##Phase III
- > * Complete the sections below (i.e. Screenshots, Installation/Usage, Testing)
  
  Before you add tasks to your to-do list, you need to first make a list! do this by entering 1. (then display using 3) 
  <img width="329" alt="Screen Shot 2022-07-22 at 3 06 06 PM" src="https://user-images.githubusercontent.com/59552176/180574794-7fed686e-7b3b-4707-947f-b745196f5a1b.png">
