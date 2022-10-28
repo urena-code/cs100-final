@@ -84,6 +84,6 @@ We used googletest to test the functionality of the tasks.
  2) run ` cmake . `
  3) run ` make `
  4) run ` ./test `
- 4) run ` ./test2  ` will test other components of the system. 
+
  
  
