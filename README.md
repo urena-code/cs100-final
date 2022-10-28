@@ -14,7 +14,7 @@ This project is important to me because one of the best skills to learn is good 
  
  Tools
  
- [CMake](http://cmake.org/) - must be preinstalled to execute. 
+ [CMake](http://cmake.org/)
  [Lucid](lucid.app)
  [googletest](https://github.com/google/googletest)
  
@@ -33,7 +33,7 @@ Another output will be if they task was added successfully. 
 
 <img width="911" alt="Screen Shot 2022-07-13 at 9 07 18 PM" src="https://user-images.githubusercontent.com/59552176/178896339-b55797b7-4548-4993-a53e-0c7ffea68a98.png">
 
-main starts off with a vector. this vector contain a list of pointers to lists. Each list has a list of tasks. You can create a specific todo for your groceries, or for homework!
+main starts off with a vector. this vector contain a list of pointers to lists. Each list has a list of tasks. This will allow you to create seperate lists  for your groceries, or for homework!
 
  > ## Phase II
 
@@ -49,7 +49,7 @@ main starts off with a vector. this vector contain a list of pointers to lists. 
  Before you add tasks to your to-do list, you need to first make a list! do this by entering 1. (then display using 3) 
  <img width="329" alt="Screen Shot 2022-07-22 at 3 06 06 PM" src="https://user-images.githubusercontent.com/59552176/180574794-7fed686e-7b3b-4707-947f-b745196f5a1b.png">
 
-now lets add eggs to our shopping list! (enter 2, select which list to add to - enter 1 - and enter relevant features.)
+now lets add "eggs" to our shopping list! (enter 2, select which list to add to - enter 1 - and enter relevant features.)
 
 <img width="392" alt="Screen Shot 2022-07-22 at 3 08 31 PM" src="https://user-images.githubusercontent.com/59552176/180574928-052a43ff-a873-49c3-a2ed-5516b4ac6bfa.png">
 
