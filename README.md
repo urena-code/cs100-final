@@ -1,7 +1,7 @@
 # Todo List! 
 
 
- > Authors: [Luis Urena](https://github.com/urena-code)
+ Authors: [Luis Urena](https://github.com/urena-code)
             [Julian Giessinger](https://github.com/20000010)
 
 
