@@ -14,7 +14,7 @@ This project is important to me because one of the best skills to learn is good 
  
  Tools
  
- [CMake](http://cmake.org/)
+ [CMake](http://cmake.org/) - must be preinstalled to execute. 
  [Lucid](lucid.app)
  [googletest](https://github.com/google/googletest)
  
@@ -75,8 +75,15 @@ We used googletest to test the functionality of the tasks.
 
 
 ## How To execute: 
- 1) run ` cmake . `
+ 1) in the main directory, run ` cmake . `
  2) run ` make `
  3) run ` ./todolist `
+ 
+ ## How To run tests:
+ 1) in the test directory , run ` git clone https://github.com/google/googletest.git` 
+ 2) run ` cmake . `
+ 3) run ` make `
+ 4) run ` ./test `
+ 4) run ` ./test2  ` will test other components of the system. 
  
  
