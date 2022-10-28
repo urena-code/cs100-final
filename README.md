@@ -75,7 +75,7 @@ We used googletest to test the functionality of the tasks.
 
 
 ## How To execute: 
- 1) in the main directory, run ` cmake . `
+ 1) in the main directory, run ` cmake . ` (cmake must be preinstalled) 
  2) run ` make `
  3) run ` ./todolist `
  
