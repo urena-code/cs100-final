@@ -1,8 +1,9 @@
 # Todo List! 
 
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8068903&assignment_repo_type=AssignmentRepo)
 
  > Authors: [Luis Urena](https://github.com/urena-code)
-            [Julian Giessinger](https://github.com/20000010)
+            [Julian Giessinger](https://github.com/)
 
 
 ## Phase I
@@ -44,6 +45,7 @@ main starts off with a vector. this vector contain a list of pointers to lists. 
 
  
  > ##Phase III
+ > * Complete the sections below (i.e. Screenshots, Installation/Usage, Testing)
  
  Before you add tasks to your to-do list, you need to first make a list! do this by entering 1. (then display using 3) 
  <img width="329" alt="Screen Shot 2022-07-22 at 3 06 06 PM" src="https://user-images.githubusercontent.com/59552176/180574794-7fed686e-7b3b-4707-947f-b745196f5a1b.png">
@@ -71,10 +73,3 @@ To mark things complete, select "4" and you will be prompted to type the name of
 We used googletest to test the functionality of the tasks. 
 
 <img width="454" alt="Screen Shot 2022-07-22 at 3 15 40 PM" src="https://user-images.githubusercontent.com/59552176/180575585-596a2017-0719-48c3-92e4-c357cf00e696.png">
-
-
-## How To execute: 
-1) run ` cmake . `
-2) run ` make `
-3) run ` ./todolist `
-

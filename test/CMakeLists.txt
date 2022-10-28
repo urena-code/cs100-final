@@ -1,0 +1,15 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.0)
+
+ADD_SUBDIRECTORY(googletest)
+
+ADD_EXECUTABLE(test
+    test.cpp
+)
+
+ADD_EXECUTABLE(test2
+    test2.cpp
+)
+
+TARGET_LINK_LIBRARIES(test gtest)
+TARGET_LINK_LIBRARIES(test2 gtest)
+TARGET_COMPILE_DEFINITIONS(test PRIVATE gtest_disable_pthreads=ON)

@@ -10,8 +10,10 @@ const int TITLE_LENGTH = 20;
 class todoTask{
 public:
 int listNumber;
-
 todoTask();
+todoTask(bool);
+
+
 string getTaskName();
 int getPriority();
 int getDuration();
@@ -25,13 +27,13 @@ void setTaskNumber(int );
 
 void setComplete(bool);
 bool getComplete();
-
+bool validdateString(string);
 
 private: 
 void inputandValidatepriority();
 void inputandValidateNameOfTask();
 void inputandValidateDueDate(); 
-bool validdateString(string);
+
 
 
 bool isComplete;

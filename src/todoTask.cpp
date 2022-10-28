@@ -1,8 +1,7 @@
 #include "../header/todoTask.h"
 
 
-
-todoTask::todoTask(){
+todoTask::todoTask(bool x){
 
     cout << endl << "-----------" <<endl;
     inputandValidateNameOfTask();     
@@ -14,6 +13,19 @@ todoTask::todoTask(){
     taskNumber = 0;
 
 }
+
+
+todoTask::todoTask(){
+
+isComplete = false;
+ taskName = " ";
+ priority=0;
+ duration=0;
+ taskNumber=0;
+
+}
+
+
 
 void todoTask::inputandValidateNameOfTask(){
     string inputTask;

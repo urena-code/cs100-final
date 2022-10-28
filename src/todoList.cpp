@@ -31,7 +31,7 @@ void todoList::add_to_list(){
 }
 
 void todoList::addTask(){
-    listOfTasks.push_back(new todoTask());  
+    listOfTasks.push_back(new todoTask(true));  
 }
 
 
