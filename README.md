@@ -1,9 +1,8 @@
 # Todo List! 
 
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8068903&assignment_repo_type=AssignmentRepo)
 
  > Authors: [Luis Urena](https://github.com/urena-code)
-            [Julian Giessinger](https://github.com/)
+            [Julian Giessinger](https://github.com/20000010)
 
 
 ## Phase I
@@ -73,3 +72,11 @@ To mark things complete, select "4" and you will be prompted to type the name of
 We used googletest to test the functionality of the tasks. 
 
 <img width="454" alt="Screen Shot 2022-07-22 at 3 15 40 PM" src="https://user-images.githubusercontent.com/59552176/180575585-596a2017-0719-48c3-92e4-c357cf00e696.png">
+
+
+## How To execute: 
+ 1) run ` cmake . `
+ 2) run ` make `
+ 3) run ` ./todolist `
+ 
+ 
